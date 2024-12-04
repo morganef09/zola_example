@@ -11,11 +11,11 @@ tags = ["Esquive les flêches ou meurs pour l'éternité et au-delà!"]
 toc = true
 +++
 
-toto 0+0 tatae
-![Logo de Wikipedia](https://biodiversitypmc.sibils.org/img/logo_banner.7ff68d4d.png"Logo de Wikipedia")
+
+![Logo de Wikipedia](https://biodiversitypmc.sibils.org/img/logo_banner.7ff68d4d.png)
 
 _____________________________
-|fruits|légumes|viandes|
+|fruits|légumes|viandes|[^1]
 |------|:-------:|-------|
 |orange|concombre|veau|
 |fraise|courgette|poulet|
