@@ -12,10 +12,10 @@ toc = true
 +++
 
 
-![Logo de Wikipedia](https://biodiversitypmc.sibils.org/img/logo_banner.7ff68d4d.png)
+![Logo de Wikipedia](https://biodiversitypmc.sibils.org/img/logo_banner.7ff68d4d.png) style="border:2px solid grey;"
 
 _____________________________
-|fruits|légumes|viandes|[^1]
+|fruits|légumes|viandes[^1]|
 |------|:-------:|-------|
 |orange|concombre|veau|
 |fraise|courgette|poulet|
