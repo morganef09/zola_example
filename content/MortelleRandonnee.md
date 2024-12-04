@@ -12,3 +12,17 @@ toc = true
 +++
 
 toto 0+0 tatae
+![Logo de Wikipedia](https://biodiversitypmc.sibils.org/img/logo_banner.7ff68d4d.png"Logo de Wikipedia")
+
+_____________________________
+|fruits|légumes|viandes|
+|------|:-------:|-------|
+|orange|concombre|veau|
+|fraise|courgette|poulet|
+|mure|mais|boeuf|
+______________________________
+
+[^1]: My reference lol
+
+[*Biodiversity* **PMC**](https://biodiversitypmc.sibils.org/ )
+
