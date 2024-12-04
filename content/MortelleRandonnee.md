@@ -12,7 +12,9 @@ toc = true
 +++
 
 
-![Logo de Wikipedia](https://biodiversitypmc.sibils.org/img/logo_banner.7ff68d4d.png) style="border:2px solid grey;"
+![Logo de Wikipedia](https://biodiversitypmc.sibils.org/img/logo_banner.7ff68d4d.png) 
+
+<img src= "https://biodiversitypmc.sibils.org/img/logo_banner.7ff68d4d.png" alt="your-image-description" style="border:2px solid grey;">
 
 _____________________________
 |fruits|légumes|viandes[^1]|
