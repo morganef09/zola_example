@@ -23,13 +23,13 @@
         <link rel="alternate" type="text/html" href="https://morganef09.github.io/zola_example/mortellerandonnee/"/>
         <id>https://morganef09.github.io/zola_example/mortellerandonnee/</id>
         
-        <content type="html" xml:base="https://morganef09.github.io/zola_example/mortellerandonnee/">&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;biodiversitypmc.sibils.org&#x2F;img&#x2F;logo_banner.7ff68d4d.png&quot; alt=&quot;Logo de Wikipedia&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://morganef09.github.io/zola_example/mortellerandonnee/">&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;biodiversitypmc.sibils.org&#x2F;img&#x2F;logo_banner.7ff68d4d.png&quot; alt=&quot;Logo de Wikipedia&quot; &#x2F;&gt; style=&quot;border:2px solid grey;&quot;&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
-&lt;p&gt;|fruits|légumes|viandes|&lt;sup class=&quot;footnote-reference&quot; id=&quot;fr-1-1&quot;&gt;&lt;a href=&quot;#fn-1&quot;&gt;[1]&lt;&#x2F;a&gt;&lt;&#x2F;sup&gt;
-|------|:-------:|-------|
-|orange|concombre|veau|
-|fraise|courgette|poulet|
-|mure|mais|boeuf|&lt;&#x2F;p&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;fruits&lt;&#x2F;th&gt;&lt;th style=&quot;text-align: center&quot;&gt;légumes&lt;&#x2F;th&gt;&lt;th&gt;viandes&lt;sup class=&quot;footnote-reference&quot; id=&quot;fr-1-1&quot;&gt;&lt;a href=&quot;#fn-1&quot;&gt;[1]&lt;&#x2F;a&gt;&lt;&#x2F;sup&gt;&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;orange&lt;&#x2F;td&gt;&lt;td style=&quot;text-align: center&quot;&gt;concombre&lt;&#x2F;td&gt;&lt;td&gt;veau&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;fraise&lt;&#x2F;td&gt;&lt;td style=&quot;text-align: center&quot;&gt;courgette&lt;&#x2F;td&gt;&lt;td&gt;poulet&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;mure&lt;&#x2F;td&gt;&lt;td style=&quot;text-align: center&quot;&gt;mais&lt;&#x2F;td&gt;&lt;td&gt;boeuf&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
 &lt;hr &#x2F;&gt;
 &lt;p&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;biodiversitypmc.sibils.org&#x2F;&quot;&gt;&lt;em&gt;Biodiversity&lt;&#x2F;em&gt; &lt;strong&gt;PMC&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;hr&gt;&lt;ol class=&quot;footnotes-list&quot;&gt;
